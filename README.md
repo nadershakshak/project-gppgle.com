@@ -1,4 +1,4 @@
-# project-gppgle.com
+# project-google.com
 GSG Code Academy Technical Tasks
 <!DOCTYPE html>
 <html>
