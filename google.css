@@ -1,0 +1,102 @@
+body {
+  background: #fff;
+  color: #202124;
+  font-family: "Noto Sans JP", sans-serif;
+}
+.googlephoto {
+  height: 92;
+  width: 272;
+  padding-top: 109px;
+}
+.divphoto {
+  margin: auto;
+}
+.divimg {
+  text-align: center;
+  display: block;
+  padding: 10px 0px 0px;
+}
+input[type="text"] {
+  width: 500px;
+  border: 1px solid rgb(180, 180, 180);
+  border-radius: 20px;
+  font-size: 16px;
+  background-color: white;
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+  -webkit-appearance: none;
+  outline: none;
+}
+
+.button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 30px;
+}
+.gNO89b {
+  background-color: white;
+  color: black;
+  border: 2px solid rgb(213, 216, 220);
+}
+.gNO89b:hover {
+  background-color: rgb(213, 216, 220);
+  color: white;
+}
+.RNmpXc {
+  background-color: white;
+  color: black;
+  border: 2px solid rgb(213, 216, 220);
+}
+.RNmpXc:hover {
+  background-color: rgb(213, 216, 220);
+  color: white;
+}
+.inputdiv {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/*
+  .input{
+    background-image: url("/Users/Nadershak/Desktop/مشاريع gaza sky geeks/img/loupe.png");
+    background-repeat: no-repeat, repeat;
+    background-color: #cccccc;
+    font-size: 20px;
+  }
+  */
+/*.button {
+  background-color: #4CAF50; /* Green */ /*
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+*/
